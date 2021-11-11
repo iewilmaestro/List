@@ -1,4 +1,4 @@
-![onnanoko](https://raw.githubusercontent.com/iewilmaestro/List/main/list.png)
+![onnanoko](https://github.com/iewilmaestro/List/blob/main/404.png)
 *(Image by [@seelyshy](https://id.pinterest.com/seelyshy/_saved/) on pinterest)*
 
 # Animes for Developer
