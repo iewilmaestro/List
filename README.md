@@ -2,7 +2,7 @@
 *(Image by [@seelyshy](https://id.pinterest.com/seelyshy/_saved/) on pinterest)*
 
 # List Script
-All Script by OLD-TEAM-FUNCTION
+All Script by OLD-FUNCTION-TEAM
 
 <!-- Please sort by alphabetical order (a-z) and use romaji or english title -->
 
