@@ -14,3 +14,4 @@ Status: ✔️ = On Script, ❌ = Off/Scam
 | Coinadster   | [Watch!]( https://youtu.be/qFyutkqiJiY ) | [Register!](https://semawur.com/qc4wyU3FuF79) | [Download!]( https://exe.io/coinadstergit) |    ✔️ | 
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
+![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
